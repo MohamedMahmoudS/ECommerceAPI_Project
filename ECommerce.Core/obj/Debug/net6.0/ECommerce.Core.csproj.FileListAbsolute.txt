@@ -10,3 +10,15 @@ C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Core\obj\Debug\net6.0\
 C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Core\obj\Debug\net6.0\refint\ECommerce.Core.dll
 C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Core\obj\Debug\net6.0\ECommerce.Core.pdb
 C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Core\obj\Debug\net6.0\ref\ECommerce.Core.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\bin\Debug\net6.0\ECommerce.Core.deps.json
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\bin\Debug\net6.0\ECommerce.Core.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\bin\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\ECommerce.Core.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\ECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\ECommerce.Core.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\ECommerce.Core.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\ECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\ECommerce.Core.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\refint\ECommerce.Core.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\ECommerceAPI_Project\ECommerce.Core\obj\Debug\net6.0\ref\ECommerce.Core.dll
