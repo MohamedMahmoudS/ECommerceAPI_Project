@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zfgoYFfETOcGaLlcpY/bffSrrjFx/a2VFynHiwn+emhTNCIy7KhGJNdPvIHVtzIzlxmEykG6tgH52pBKwL/QIw==",
+  "dgSpecHash": "mp2ztsaKuh42oU/L9/SvFbwGWyYDuuQcKVRkoIdu94UXjzkUdhoKF13dtd16HhtGx5+Kf0tih7OqE37UMk3WEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\ECommerce.Core.csproj",
+  "projectFilePath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\ECommerce.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",
     "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.16\\microsoft.aspnetcore.cryptography.keyderivation.6.0.16.nupkg.sha512",

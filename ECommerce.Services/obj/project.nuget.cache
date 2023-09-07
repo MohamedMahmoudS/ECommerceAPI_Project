@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GwQsi975FwKlv+tOMVtAe/iccgQyZYhBp8t9G1q5cQTGH6GVqwxKkpjs39PmDqMelqzBhkZ/NV7bKA5yj0TFJw==",
+  "dgSpecHash": "icA36Z2Hyabt0dnzbOnqgTWULVmJ8wnDYTid0FjYDdwXRDdm77v06HLF796sj4+F6nVPI/PlsoKiks/oSohhxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Services\\ECommerce.Services.csproj",
+  "projectFilePath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Services\\ECommerce.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.16\\microsoft.aspnetcore.authentication.jwtbearer.6.0.16.nupkg.sha512",
     "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",

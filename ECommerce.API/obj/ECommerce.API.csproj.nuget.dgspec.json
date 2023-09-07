@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.API\\ECommerce.API.csproj": {}
+    "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.API\\ECommerce.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.API\\ECommerce.API.csproj": {
+    "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.API\\ECommerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.API\\ECommerce.API.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.API\\ECommerce.API.csproj",
         "projectName": "ECommerce.API",
-        "projectPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.API\\ECommerce.API.csproj",
+        "projectPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.API\\ECommerce.API.csproj",
         "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.API\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,18 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Repository\\ECommerce.Repository.csproj": {
-                "projectPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Repository\\ECommerce.Repository.csproj"
+              "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Repository\\ECommerce.Repository.csproj": {
+                "projectPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Repository\\ECommerce.Repository.csproj"
               },
-              "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Services\\ECommerce.Services.csproj": {
-                "projectPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Services\\ECommerce.Services.csproj"
+              "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Services\\ECommerce.Services.csproj": {
+                "projectPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Services\\ECommerce.Services.csproj"
               }
             }
           }
@@ -86,25 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\ECommerce.Core.csproj": {
+    "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\ECommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\ECommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\ECommerce.Core.csproj",
         "projectName": "ECommerce.Core",
-        "projectPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\ECommerce.Core.csproj",
+        "projectPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\ECommerce.Core.csproj",
         "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,7 +103,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -160,25 +150,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Repository\\ECommerce.Repository.csproj": {
+    "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Repository\\ECommerce.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Repository\\ECommerce.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Repository\\ECommerce.Repository.csproj",
         "projectName": "ECommerce.Repository",
-        "projectPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Repository\\ECommerce.Repository.csproj",
+        "projectPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Repository\\ECommerce.Repository.csproj",
         "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,15 +172,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\ECommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\ECommerce.Core.csproj"
+              "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\ECommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\ECommerce.Core.csproj"
               }
             }
           }
@@ -230,25 +215,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Services\\ECommerce.Services.csproj": {
+    "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Services\\ECommerce.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Services\\ECommerce.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Services\\ECommerce.Services.csproj",
         "projectName": "ECommerce.Services",
-        "projectPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Services\\ECommerce.Services.csproj",
+        "projectPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Services\\ECommerce.Services.csproj",
         "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Services\\obj\\",
+        "outputPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -256,15 +237,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\ECommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\Mohamed\\Desktop\\ECommerce.API Solution\\ECommerce.Core\\ECommerce.Core.csproj"
+              "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\ECommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\Mohamed\\source\\repos\\MohamedMahmoudS\\ECommerceAPI_Project\\ECommerce.Core\\ECommerce.Core.csproj"
               }
             }
           }
@@ -300,7 +280,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
